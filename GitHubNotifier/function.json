@@ -16,5 +16,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/GitHubTrigger/index.js"
+  "scriptFile": "../dist/GitHubNotifier/index.js"
 }
